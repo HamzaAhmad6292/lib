@@ -12,7 +12,7 @@ setup(
     description="A brief description of your library",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/yourusername/my_library",  # GitHub URL or project URL
+    url="https://github.com/HamzaAhmad6292/lib",  # GitHub URL or project URL
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  # Adjust if you're using a different license
