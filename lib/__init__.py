@@ -1,3 +1,5 @@
+from lib import Script
+
 class Script:
     @staticmethod
     def get_ga_text():
