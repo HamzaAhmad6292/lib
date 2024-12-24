@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lib",  # Replace with your library's name
+    name="lib_plot",  # Replace with your library's name
     version="0.1.0",  # Update version as needed
     packages=find_packages(),
     install_requires=[
         # List any dependencies your package has
     ],
-    author="Your Name",
+    author="tran_nigga",
     author_email="your-email@example.com",
     description="A brief description of your library",
     long_description=open('README.md').read(),
