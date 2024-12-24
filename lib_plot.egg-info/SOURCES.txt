@@ -1,7 +1,0 @@
-README.md
-setup.py
-lib/__init__.py
-lib_plot.egg-info/PKG-INFO
-lib_plot.egg-info/SOURCES.txt
-lib_plot.egg-info/dependency_links.txt
-lib_plot.egg-info/top_level.txt
