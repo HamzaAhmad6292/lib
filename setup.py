@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lib_plot",  # Replace with your library's name
+    name="scripts_lot",  # Replace with your library's name
     version="0.1.0",  # Update version as needed
     packages=find_packages(),
     install_requires=[
