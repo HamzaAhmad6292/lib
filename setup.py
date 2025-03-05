@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="scripts_lot",  # Replace with your library's name
-    version="0.6.0",  # Update version as needed
+    version="0.7.0",  # Update version as needed
     packages=find_packages(),
     install_requires=[
         # List any dependencies your package has
